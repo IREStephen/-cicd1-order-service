@@ -1,6 +1,6 @@
 package ie.atu.cicd1.catalog.cicd1orderservice.service;
 
-import ie.atu.cicd1.order.model.PurchaseOrder;
+import ie.atu.cicd1.catalog.cicd1orderservice.model.PurchaseOrder;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
